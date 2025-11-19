@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# IDE stuff
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Docker
+*.log
+
+# AWS credentials (never commit these)
+.aws/
